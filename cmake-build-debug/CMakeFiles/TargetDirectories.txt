@@ -1,0 +1,3 @@
+C:/Users/Term/CLionProjects/NumOfChar/cmake-build-debug/CMakeFiles/NumOfChar.dir
+C:/Users/Term/CLionProjects/NumOfChar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Term/CLionProjects/NumOfChar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
